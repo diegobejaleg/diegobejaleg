@@ -3,8 +3,11 @@ I am a **data analyst** passionate about transforming data into strategic decisi
 
 **Key skills:**  
 📊 **Data Analytics:** Proficient in tools such as Python (pandas, NumPy, Matplotlib, Seaborn); SQL to extract and analyze data; Power query, Altery to clean data and knowledge of the Microsoft Office package.
+
 📈 **Visualization:** Experience in creating dashboards and interactive reports with tools such as Power BI, Tableau.
+
 📚 **Modeling and statistics:** Application of machine learning techniques and statistical analysis to solve business problems.
+
 🤝 **Collaboration and communication:** Translation of technical insights into clear language for decision making. 
 
 **Important projects:**   
